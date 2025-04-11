@@ -1,4 +1,3 @@
-"""
 # Agentic-RAG-with-Ollama
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using **LangChain**, **FAISS**, and **Ollama**'s `llama3` embeddings to enable intelligent, agent-based question-answering over a custom document. It includes a simple agentic setup that processes and answers questions about a medical report.
